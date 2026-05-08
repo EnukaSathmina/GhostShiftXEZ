@@ -122,3 +122,9 @@ Example:
 ```
 /pesp whitelist clear
 ```
+
+<h2 align="center">👨‍💻 Author</h2>
+
+<p align="center">
+  Made by <b>Enuka Sathmina</b>
+</p>
